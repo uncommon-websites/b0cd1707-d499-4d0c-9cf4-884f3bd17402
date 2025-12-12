@@ -5,10 +5,10 @@
   <div class="max-w-[1200px] mx-auto px-6">
     <div class="text-center mb-16">
       <h2 class="text-5xl font-bold mb-6 tracking-tight">
-        One-click Bill of Materials
+        Intelligent RFI & Submittal Tracking
       </h2>
       <p class="text-gray-400 text-lg max-w-2xl mx-auto leading-relaxed">
-        Save your team's precious time. Config replaces the lengthy process of manual BOM creation with one-click BOM from your engineering assembly, all driven by CAD.
+        Stop chasing down responses in email threads. Cogram automatically tracks RFIs and submittals, routes them to the right people, and keeps everyone informed with real-time status updates.
       </p>
     </div>
 
